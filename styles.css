@@ -2,24 +2,24 @@
 	font-family: 'Montserrat', sans-serif;
 	margin: 0;
 	padding: 0;
-	font-size: 62,5%;
+	font-size: 1vw;
 }
 
 #header {
 	background-color: #CABBB7;
 	width:100%;
-	height: 20em;
+	height: 20vw;
 }
 #big {
-	width:35%;
+	width:35vw;
 	position: absolute;
-	right: 10%;
-	top: 10%;
+	right: 10vw;
+	top: 5vw;
 }
 .paulina {
 	position: absolute;
-	left: 15%;
-	top: 20%;
+	left: 13vw;
+	top: 12vw;
 	font-size: 1.5em;
 	font-weight: lighter;
 }
@@ -86,6 +86,7 @@ footer {
 	width:100%;
 	height: 10em;
 	text-align: center;
+	padding-bottom: 1em;
 }
 .small {
 	width: 15%;
