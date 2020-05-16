@@ -1,0 +1,93 @@
+* {
+	font-family: 'Montserrat', sans-serif;
+	margin: 0;
+	padding: 0;
+	font-size: 62,5%;
+}
+
+#header {
+	background-color: #CABBB7;
+	width:100%;
+	height: 20em;
+}
+#big {
+	width:35%;
+	position: absolute;
+	right: 10%;
+	top: 10%;
+}
+.paulina {
+	position: absolute;
+	left: 15%;
+	top: 20%;
+	font-size: 1.5em;
+	font-weight: lighter;
+}
+nav{
+	width:100%;
+	height:5em;
+	background-color: #C65252;
+	position: sticky;
+	top: 0px;
+	display: inline-block;
+}
+ul{
+	padding-right: 10%;
+}
+li { 
+	margin: 1.5em;
+	float:right;
+	list-style: none;
+}
+li a {
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+	font-size: 1.5em;
+}
+
+h1{
+	font-size: 5em;
+	text-align: center;
+	font-weight: bold;
+	padding: 5%;
+}
+.first {
+	margin: 0% 10%;
+	width: 80%;
+	height: 20em;
+	text-align: center;
+	object-fit: cover;
+}
+.description {
+	text-align: center;
+	font-weight: bold;
+	font-size: 2em;
+	margin: 1em 0em;
+	font-weight: bold;
+}
+.container1{
+	width:40%;
+	display:inline-block;
+	text-align:center;
+}
+.container1 >img {
+	width: 90%;
+	height: 20em;
+}
+#left{
+	padding-left: 8em;
+}
+#right {
+	padding-left: 3em;
+}
+footer {
+	background-color: #CABBB7;
+	width:100%;
+	height: 10em;
+	text-align: center;
+}
+.small {
+	width: 15%;
+	padding: 1em;
+}
